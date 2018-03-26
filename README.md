@@ -11,7 +11,7 @@ Drunk_player est composé:
 
 ## Dépendances
 
-- OpenCV
+- [OpenCV](https://opencv.org)
 - Boost
 
 ## Compilation
@@ -28,4 +28,4 @@ make
 ./drunk_player_gui.out ../data
 
 
-![alt text](https://raw.githubusercontent.com/Clhuhms/GenLogTest/master/drunk_player_gui.png "Drunk Player Gui")
+![](https://raw.githubusercontent.com/Clhuhms/GenLogTest/master/drunk_player_gui.png "Drunk Player Gui")
