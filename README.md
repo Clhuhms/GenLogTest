@@ -16,7 +16,7 @@ Drunk_player est composé:
 
 ## Compilation
 
-```
+```cmake
 mkdir build
 cd build
 cmake ..
@@ -28,5 +28,4 @@ make
 ./drunk_player_gui.out ../data
 
 
-Inline-style: 
 ![alt text](https://raw.githubusercontent.com/Clhuhms/GenLogTest/master/drunk_player_gui.png "Drunk Player Gui")
