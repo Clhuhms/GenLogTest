@@ -16,7 +16,7 @@ Drunk_player est composé:
 
 ## Compilation
 
-```cmake
+```shell
 mkdir build
 cd build
 cmake ..
